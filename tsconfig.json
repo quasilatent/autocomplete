@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es5",
+        "noImplicitAny": false,
+        "sourceMap": true,
+        "moduleResolution": "node",
+        "baseUrl": "src",
+        "allowSyntheticDefaultImports": true,
+        "outDir": "./dist/",
+        "jsx": "react",
+        "noEmitOnError": true
+
+    },
+    "exclude": [
+        "node_modules"
+    ]
+    
+}
